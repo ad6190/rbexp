@@ -1,3 +1,3 @@
 formatter = "%{first} %{second}"
-puts formatter % { first : "Hello", second : "World"}
+puts formatter % { first: "Hello", second: "World"}
 
